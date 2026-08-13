@@ -1,0 +1,7 @@
+id=hyperos_autofill_fix_Bitwarden
+name=Bitwarden 自动填入服务锁定
+version=v1.0.0
+versionCode=1
+author=远方缘分的天空
+description=自动监控并锁定 Bitwarden 自动填入服务。日志 /data/local/tmp/autofill_fix.log
+
