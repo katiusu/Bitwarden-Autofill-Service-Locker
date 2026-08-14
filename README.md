@@ -1,3 +1,5 @@
+# 已终止
+转到https://github.com/katiusu/HyperOS-Autofill-Fix/tree/main以获取更好解决方法。
 # Bitwarden-Autofill-Service-Locker
 一个对抗HyperOS安全组件，将Bitwarden锁定为默认密码管理器和自动填入服务提供者的Root模组。
 # 用什么制作的？
